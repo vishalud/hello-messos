@@ -1,0 +1,8 @@
+{
+  "requestId": "hello-mesos-ssalisbury",
+  "resources": {
+    "cpus": 0.01,
+    "memoryMb": 32,
+    "numPorts": 1
+  }
+}
