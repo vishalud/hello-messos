@@ -1,4 +1,4 @@
-# OpenTable NodeJS Mesos Workhop
+# OpenTable NodeJS Mesos Workshop
 
 This is a step by step guide to writing a simple NodeJS HTTP application ready for deployment on OpenTable's Mesos Platform. We will be using Docker, Mesos and Singularity to build the app.
 
@@ -267,7 +267,7 @@ var NODE_ENV = process.env.OT_ENV || "development";
 var discoveryHost = "discovery-pp-sf.otenv.com";
 var homeRegionName = "pp-sf";
 var serviceUri = "http://" + TASK_HOST + ":" + PORT0;
-var serviceType = "hello-mesos-ssalisbury";
+var serviceType = "hello-mesos-vuderani";
 
 server.register([{
   register: require("hapi-service-discovery"),

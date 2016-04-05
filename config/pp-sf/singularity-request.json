@@ -1,6 +1,6 @@
 {
   "id": "hello-mesos-ssalisbury",
-  "owners": ["ssalisbury@opentable.com"],
+  "owners": ["vuderani@opentable.com"],
   "daemon": true,
   "rackSensitive": false,
   "loadBalanced": false,
